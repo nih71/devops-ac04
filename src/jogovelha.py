@@ -7,7 +7,7 @@ def inicializar():
         tab.append(linha)
     return tab
     
-def main( ): gfdss
+def mai
     jogo = inicializar( )
     print (jogo)
     
