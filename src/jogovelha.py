@@ -1,13 +1,13 @@
-gfddef inicializar():
-   gfsdg tab = [ ]
-   fdsg for i in range(3):
-     sfdg   linha = [ ]
-     sdfg   for j in range(3):
-    sdfg        linha.append(.")
-     sdfg   tab.append(linha)
-  sfdg  return tab
+inicializar():
+ tab = [ ]
+  for i in range(3):
+   linha = [ ]
+   for j in range(3):
+        linha.append(.")
+   tab.append(linha)
+  return tab
     
-fsfasdfasd main():
+def main():
     jogo = inicializar( )
   sfg  print (jogo)
     
