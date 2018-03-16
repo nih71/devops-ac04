@@ -1,6 +1,6 @@
 language: python
 python:
- _ "3.4"
+ - "3.4"
 script:
- _ cd src; python testes.py
+ - cd src; python testes.py
   
