@@ -7,7 +7,7 @@ inicializar():
    tab.append(linha)
   return tab
     
-def main():
+ef main():
     jogo = inicializar( )
   sfg  print (jogo)
     
